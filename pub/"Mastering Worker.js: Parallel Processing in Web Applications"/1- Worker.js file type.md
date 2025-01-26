@@ -1,0 +1,3 @@
+Source guide
+Summary
+This document explains Worker.js files, which are JavaScript files creating web workers—background scripts that run independently of a web application's main thread. This parallel processing prevents user interface freezes during complex tasks like data processing or image manipulation. The core concepts include the Worker constructor for creating and loading the Worker.js file, and message passing (postMessage and onmessage) for communication between the main thread and the worker. The text details several novel uses, including real-time data processing, image manipulation, machine learning, and game development, highlighting the power of Worker.js in building highly responsive web applications.
